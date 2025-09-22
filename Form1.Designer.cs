@@ -186,7 +186,7 @@
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "y = x^3-5";
             ((System.ComponentModel.ISupportInitialize)dgvIteraciones).EndInit();
             ResumeLayout(false);
             PerformLayout();
